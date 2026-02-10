@@ -1,2 +1,2 @@
 # Face_Detector
-Face Detection software 
+Face Detection software using OpenCV library of python
